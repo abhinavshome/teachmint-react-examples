@@ -1,3 +1,4 @@
+import AddUserForm from "./AddUserForm";
 import ContactList from "./ContactList";
 import Counter from "./Counter";
 import MoveDot from "./MoveDot";
@@ -12,6 +13,7 @@ const App = () => {
         <Tabs />
         <MoveDot />
         <ContactList />
+        <AddUserForm />
     </div>;
 }
 
