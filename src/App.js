@@ -1,4 +1,6 @@
+import ContactList from "./ContactList";
 import Counter from "./Counter";
+import MoveDot from "./MoveDot";
 import OnOffSwitch from "./OnOffSwitch";
 import Tabs from "./Tabs";
 
@@ -8,6 +10,8 @@ const App = () => {
         <Counter />
         <OnOffSwitch />
         <Tabs />
+        <MoveDot />
+        <ContactList />
     </div>;
 }
 
