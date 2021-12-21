@@ -1,0 +1,17 @@
+.on {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    display: inline-block;
+    border-radius: 10px;
+}
+.off {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 10px;
+}
+.hidden {
+    display: none;
+}

@@ -1,0 +1,7 @@
+.tab {
+    padding: 0 10px;
+    cursor: pointer;
+}
+.active {
+    border-bottom: 1px solid blueviolet;
+}
